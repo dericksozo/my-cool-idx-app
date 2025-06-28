@@ -2,7 +2,7 @@
 // Generated file. Do not edit manually.
 import { pgEnum, pgTable as table } from "drizzle-orm/pg-core";
 import * as t from "drizzle-orm/pg-core";
-import { db, types } from "sim-idx";
+import { db, types } from "@duneanalytics/sim-idx";
 
 export const ownerQueried = table("owner_queried", {
   chainId: db.uint64('chain_id'),
