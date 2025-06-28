@@ -1,5 +1,6 @@
 # Sim IDX Sample Project
 
+
 **Sim IDX** is a framework that helps you build and deploy applications that index blockchain data in minutes. Define listeners that react to specific onchain events, extract relevant data, and automatically make this data queryable via an API.
 
 This sample project indexes **Uniswap V3 Factory pool creation events** and serves as your starting point for building with Sim IDX.
